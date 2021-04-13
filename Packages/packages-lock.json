@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "f9ef34385cea17beded26d45e8b855a17047389a"
     },
+    "com.t4.ucollections": {
+      "version": "https://github.com/moe4b-packages/UCollections.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3ed20d3e7dfd056f176210fbbf3b73df416571a3"
+    },
     "com.unity.ugui": {
       "version": "1.0.0",
       "depth": 0,
